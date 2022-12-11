@@ -1,0 +1,27 @@
+.jumbotron{
+    padding: 2rem 1rem;
+    background-image: url('img/bg4.jpg');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 100% 100%;
+}
+body{
+    background-image: url('img/bg4.jpg');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 100% 100%;
+
+}
+.navbar{
+    background-color: #394d60;
+}
+h3{
+    font-family: Arial;
+}
+.h1{
+    font-style: italic;
+}
+.h5{
+    font-size: medium;
+    font-style: italic;
+}
